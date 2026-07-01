@@ -1,0 +1,4 @@
+amfi_code,fund_house,scheme_name,category,sub_category,plan,launch_date,benchmark,expense_ratio_pct,exit_load_pct,min_sip_amount,min_lumpsum_amount,fund_manager,risk_category,sebi_category_code,sharpe_ratio
+120842,Kotak Mahindra MF,Kotak Emerging Equity Fund - Regular - Growth,Equity,Mid Cap,Regular,2007-03-30,NIFTY Midcap 150 TRI,1.56,1.0,500,1000,Pankaj Tibrewal,High,EC02,0.96
+120505,ICICI Prudential MF,ICICI Pru Midcap Fund - Regular - Growth,Equity,Mid Cap,Regular,2004-10-28,NIFTY Midcap 150 TRI,1.36,1.0,500,1000,Sankaran Naren,High,EC02,0.95
+149323,DSP Mutual Fund,DSP Midcap Fund - Regular - Growth,Equity,Mid Cap,Regular,2006-11-16,NIFTY Midcap 150 TRI,1.61,1.0,500,1000,Vinit Sambre,High,EC02,0.9
